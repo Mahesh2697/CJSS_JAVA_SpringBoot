@@ -44,4 +44,5 @@ public class PostsData {
     public void setDescription(String description) {
         this.description = description;
     }
+
 }

@@ -1,14 +1,16 @@
 package customer;
 
+import java.util.*;
+
 public class CommentsData {
     int postid;
     String email;
-    String comment;
+    List<String> comment1=new ArrayList<>();
 
-    public CommentsData(int postid, String email, String comment) {
+    public CommentsData(int postid, String email, List<String> comment1) {
         this.postid = postid;
         this.email = email;
-        this.comment = comment;
+        this.comment1 = comment1;
     }
 
     public int getPostid() {
@@ -27,11 +29,14 @@ public class CommentsData {
         this.email = email;
     }
 
-    public String getComment() {
-        return comment;
+    public List<String> getComment1() {
+        return comment1;
     }
 
-    public void setComment(String comment) {
-        this.comment = comment;
+    public void setComment(List<String> comment) {
+        this.comment1 = comment;
     }
+
+
+
 }
