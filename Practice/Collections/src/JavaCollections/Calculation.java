@@ -11,6 +11,7 @@ public class Calculation {
                     System.out.println(k);
                     if(k==8){
                         break b;
+                        System.out.println("------------");
                     }
 
                 }
