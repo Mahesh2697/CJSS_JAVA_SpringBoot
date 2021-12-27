@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2aa0532c-f912-4acd-a79b-47a9aa064e74" name="Changes" comment="student demo using streams">
+    <list default="true" id="2aa0532c-f912-4acd-a79b-47a9aa064e74" name="Changes" comment="student_demo using streams and collections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Student/StudentData.java" beforeDir="false" afterPath="$PROJECT_DIR$/Student/StudentData.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +44,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
@@ -80,7 +80,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/EmployeesStreamsDemo" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -171,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640232230704</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="student_demo using streams and collections">
+      <created>1640248959911</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1640248959911</updated>
+    </task>
+    <task id="LOCAL-00010" summary="student_demo using streams and collections">
+      <created>1640248980066</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1640248980066</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +206,7 @@
     <MESSAGE value="commit" />
     <MESSAGE value="commits" />
     <MESSAGE value="student demo using streams" />
-    <option name="LAST_COMMIT_MESSAGE" value="student demo using streams" />
+    <MESSAGE value="student_demo using streams and collections" />
+    <option name="LAST_COMMIT_MESSAGE" value="student_demo using streams and collections" />
   </component>
 </project>
